@@ -6,3 +6,4 @@ Sekcja 2
 
 Sekcja 3
 Koniec pliku
+Sprawozdanie Git2
